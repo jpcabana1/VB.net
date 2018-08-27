@@ -31,3 +31,4 @@ C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\o
 C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.pdb
 C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.vbprojResolveAssemblyReference.cache
 C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.Listar.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.alterarTela.resources

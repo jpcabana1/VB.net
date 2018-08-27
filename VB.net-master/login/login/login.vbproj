@@ -79,6 +79,12 @@
     <Compile Include="alterar.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AlterarTela.Designer.vb">
+      <DependentUpon>AlterarTela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarTela.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Cadastrar.Designer.vb">
       <DependentUpon>Cadastrar.vb</DependentUpon>
     </Compile>
@@ -130,6 +136,9 @@
   <ItemGroup>
     <EmbeddedResource Include="alterar.resx">
       <DependentUpon>alterar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarTela.resx">
+      <DependentUpon>AlterarTela.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Cadastrar.resx">
       <DependentUpon>Cadastrar.vb</DependentUpon>

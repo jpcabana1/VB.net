@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class alterar
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,11 +20,9 @@ Partial Class alterar
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.UserDelete = New System.Windows.Forms.TextBox()
-        Me.Label1 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Csenha2 = New System.Windows.Forms.TextBox()
@@ -39,8 +37,6 @@ Partial Class alterar
         '
         'GroupBox2
         '
-        Me.GroupBox2.Controls.Add(Me.UserDelete)
-        Me.GroupBox2.Controls.Add(Me.Label1)
         Me.GroupBox2.Controls.Add(Me.Button1)
         Me.GroupBox2.Controls.Add(Me.Label5)
         Me.GroupBox2.Controls.Add(Me.Csenha2)
@@ -58,28 +54,9 @@ Partial Class alterar
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Alterar Dados"
         '
-        'UserDelete
-        '
-        Me.UserDelete.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.UserDelete.Location = New System.Drawing.Point(40, 67)
-        Me.UserDelete.Name = "UserDelete"
-        Me.UserDelete.Size = New System.Drawing.Size(164, 22)
-        Me.UserDelete.TabIndex = 13
-        Me.UserDelete.UseSystemPasswordChar = True
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(36, 40)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(163, 24)
-        Me.Label1.TabIndex = 4
-        Me.Label1.Text = "Nome do Usuário:"
-        '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(40, 420)
+        Me.Button1.Location = New System.Drawing.Point(203, 347)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(128, 46)
         Me.Button1.TabIndex = 12
@@ -90,7 +67,7 @@ Partial Class alterar
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(37, 259)
+        Me.Label5.Location = New System.Drawing.Point(200, 186)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(122, 18)
         Me.Label5.TabIndex = 11
@@ -98,7 +75,7 @@ Partial Class alterar
         '
         'Csenha2
         '
-        Me.Csenha2.Location = New System.Drawing.Point(40, 284)
+        Me.Csenha2.Location = New System.Drawing.Point(203, 211)
         Me.Csenha2.Name = "Csenha2"
         Me.Csenha2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.Csenha2.Size = New System.Drawing.Size(164, 29)
@@ -108,7 +85,7 @@ Partial Class alterar
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(37, 323)
+        Me.Label6.Location = New System.Drawing.Point(200, 250)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(54, 18)
         Me.Label6.TabIndex = 9
@@ -116,7 +93,7 @@ Partial Class alterar
         '
         'Cemail
         '
-        Me.Cemail.Location = New System.Drawing.Point(40, 348)
+        Me.Cemail.Location = New System.Drawing.Point(203, 275)
         Me.Cemail.Name = "Cemail"
         Me.Cemail.Size = New System.Drawing.Size(164, 29)
         Me.Cemail.TabIndex = 8
@@ -125,7 +102,7 @@ Partial Class alterar
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(37, 187)
+        Me.Label4.Location = New System.Drawing.Point(200, 114)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(91, 18)
         Me.Label4.TabIndex = 5
@@ -133,7 +110,7 @@ Partial Class alterar
         '
         'Csenha1
         '
-        Me.Csenha1.Location = New System.Drawing.Point(40, 212)
+        Me.Csenha1.Location = New System.Drawing.Point(203, 139)
         Me.Csenha1.Name = "Csenha1"
         Me.Csenha1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.Csenha1.Size = New System.Drawing.Size(164, 29)
@@ -143,7 +120,7 @@ Partial Class alterar
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(37, 119)
+        Me.Label3.Location = New System.Drawing.Point(200, 46)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(101, 18)
         Me.Label3.TabIndex = 3
@@ -151,7 +128,7 @@ Partial Class alterar
         '
         'Cuser
         '
-        Me.Cuser.Location = New System.Drawing.Point(40, 144)
+        Me.Cuser.Location = New System.Drawing.Point(203, 71)
         Me.Cuser.Name = "Cuser"
         Me.Cuser.Size = New System.Drawing.Size(164, 29)
         Me.Cuser.TabIndex = 2
@@ -180,6 +157,4 @@ Partial Class alterar
     Friend WithEvents Csenha1 As TextBox
     Friend WithEvents Label3 As Label
     Friend WithEvents Cuser As TextBox
-    Friend WithEvents Label1 As Label
-    Friend WithEvents UserDelete As TextBox
 End Class

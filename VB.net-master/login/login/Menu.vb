@@ -5,7 +5,7 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim alt As alterar = New alterar
+        Dim alt As alterarTela = New alterarTela
         alt.Show()
     End Sub
 
