@@ -1,0 +1,33 @@
+C:\Users\Gabinator 2.0\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\Gabinator 2.0\source\repos\login\login\bin\Debug\login.exe
+C:\Users\Gabinator 2.0\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\Gabinator 2.0\source\repos\login\login\bin\Debug\login.xml
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.vbprojAssemblyReference.cache
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.Form1.resources
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.Resources.resources
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.exe
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.xml
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.Menu.resources
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.Cadastrar.resources
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.alterar.resources
+C:\Users\Gabinator 2.0\source\repos\login\login\obj\Debug\login.remover.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\bin\Debug\login.exe.config
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\bin\Debug\login.exe
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\bin\Debug\login.pdb
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\bin\Debug\login.xml
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.alterar.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.Cadastrar.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.Menu.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.remover.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.Form1.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.Resources.resources
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.vbproj.GenerateResource.Cache
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.exe
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.xml
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.pdb
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator.SYSTI\Downloads\VB.net-master\VB.net-master\login\login\obj\Debug\login.Listar.resources
